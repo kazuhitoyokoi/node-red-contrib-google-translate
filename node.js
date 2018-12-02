@@ -1,6 +1,6 @@
 module.exports = function (RED) {
     "use strict";
-    var translate = require('google-translate-api');
+    var translate = require('@vitalets/google-translate-api');
 
     function GoogleTranslateNode(config) {
         RED.nodes.createNode(this, config);
