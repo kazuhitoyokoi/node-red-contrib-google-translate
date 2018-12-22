@@ -21,7 +21,8 @@
   "keywords": [
     "node-red",
     "google",
-    "translate"
+    "translate",
+    "google translate"
   ],
   "author": "zuhito",
   "license": "Apache-2.0",
